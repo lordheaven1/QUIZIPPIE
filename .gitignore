@@ -1,0 +1,22 @@
+# QUIZIPPIE gitignore
+# Eclipse
+.project
+.classpath
+.settings/
+build/
+bin/
+
+# Compiled / build
+target/
+*.class
+*.jar
+*.war
+
+# Logs / temp
+*.log
+tmp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
